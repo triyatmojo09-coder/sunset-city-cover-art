@@ -1,5 +1,1 @@
-[
-  { "name": "1-cover.jpg", "query": "?shot=cover&photo=pier&caption=Sunset%20Heist", "w": 1080, "h": 1080 },
-  { "name": "2-editor.jpg", "query": "?shot=editor&photo=boulevard&caption=Boulevard%20Queen", "w": 1280, "h": 720 },
-  { "name": "3-cover.jpg", "query": "?shot=cover&photo=boulevard&caption=Boulevard%20Queen", "w": 1080, "h": 1080 }
-]
+[{"h":1080,"name":"1-cover.jpg","query":"?shot=cover&size=1920x1080&layout=blockbuster&grade=sunset&photos=portrait,car,boulevard,pier&v0=0,0.12,1&v3=0,0.25,1&title=SUNSET%20CITY&caption=EVERY%20LEGEND%20HAS%20A%20PRICE","w":1920},{"h":800,"name":"2-editor.jpg","query":"?shot=editor&layout=blockbuster&grade=sunset&photos=portrait,car,boulevard,pier&panel=0","w":1280},{"h":1350,"name":"3-cover-portrait.jpg","query":"?shot=cover&size=1080x1350&layout=triptych&grade=neon&photos=portrait,boulevard,car&style=outline&title=SUNSET%20CITY&caption=NEON%20RUNNERS","w":1080},{"h":1080,"name":"4-cover-square.jpg","query":"?shot=cover&size=1080x1080&layout=herostrip&grade=gold&photos=car,portrait,pier,boulevard&style=chrome&title=SUNSET%20CITY&caption=GOLDEN%20HOUR%20GETAWAY","w":1080}]
